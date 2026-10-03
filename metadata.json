@@ -1,0 +1,6 @@
+{
+  "name": "StabiX VenturiFlow | Next-Gen Industrial Air Gun",
+  "description": "Ergonomic, vibration-damped industrial blow gun with Venturi airflow amplification nozzle. Reduces compressed air consumption by 42% and eliminates operator wrist fatigue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
